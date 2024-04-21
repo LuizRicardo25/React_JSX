@@ -1,5 +1,5 @@
 
-[# JSX vs. JavaScript Puro no React](https://github.com/LuizRicardo25/React_JSX)
+# JSX vs. JavaScript Puro no React
 
 Em React, você pode criar interfaces de usuário de duas maneiras principais: usando JSX ou JavaScript puro. Vamos explorar essas duas abordagens com base em um componente simples do React.
 
